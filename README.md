@@ -13,3 +13,9 @@ After clicking the Add Friend button the friend status changes as well as the bu
 You can double click the photo and the like button pops out for sometime and disappears
 
 ![insta_card3](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/a9e164d9-5b16-4da8-ae5a-e5c6c67c3127)
+
+# Project 2 (Custom Cursor)
+Basic Cursor is a new cursor added over the default cursor which smoothly follows the default cursor on the entire webpage and when moves over an object shows a different objet transperancy.
+![basic_cursor1](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/d610a7a0-4223-4eb5-b9e0-45e97f13c94f)
+![basic_cursor2](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/eff980d6-d755-4973-b0a0-a9db6f2ed700)
+
