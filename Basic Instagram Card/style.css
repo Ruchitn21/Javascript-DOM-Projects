@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cornflowerblue;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#card {
+    height: 68vh;
+    width: 24vw;
+    background-color: #fff;
+    border-radius: 5vh;
+    padding: 4vh;
+}
+
+#image-container {
+    position: relative;
+}
+#card img {
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 1vh;
+}
+
+#card h1 {
+    font-size: 30px;
+    margin: 10px 0;
+
+    text-align: center;
+}
+
+#card h5 {
+    font-size: 15px;
+    color: red;
+    text-align: center;
+}
+
+#card #btn-container
+{
+    display: flex;
+    margin : 6vh auto;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    /* width: 15vw; */
+
+}
+
+#card button {
+    background-color: cadetblue;
+    color: #fff;
+    font-weight: 700;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+#card #remove-btn {
+    background-color: crimson;
+    color: white;
+}
+
+#image-container i {
+    font-size: 4vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%) scale(0);
+    opacity: 0.8;
+    transition: all ease 0.4s;
+
+}
