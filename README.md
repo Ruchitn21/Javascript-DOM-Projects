@@ -23,8 +23,12 @@ Basic Cursor is a new cursor added over the default cursor which smoothly follow
 In Advance to previous project of a basic cursor, in this project 4 different cursors on a single webpage have been implemented with smooth following of default cursor and each part of webpage will have different cursor.
 
 ![multiple_1](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/46fb6e40-a971-41a2-b2ae-bb95948ccb88)
-![m![multiple_3](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/6b6863b5-a17f-4670-856a-01f72b6293fa)
-![m![multiple_2](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/e27d6187-6edc-49be-8e48-400627f174c4)
-
+![multiple_3](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/6b6863b5-a17f-4670-856a-01f72b6293fa)
+![multiple_2](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/e27d6187-6edc-49be-8e48-400627f174c4)
 ![multiple_4](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/5a4b68dd-a334-4eee-b8e2-ec4d17f7da7a)
 
+# Project 4 (Instagram Status Effect)
+A similar user experience of viewing instagram status of various accounts on clicking them is implemented in this project. When a user clicks the status pic of any friend, the status of the person is displayed for few seconds and vanishes after few seconds. A cross icon is also placed on the status in case the user wants to close the status before set time.
+
+![status_1](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/0da28851-3c30-4dda-8193-343456d07667)
+![status_2](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/2102e419-bd36-4ffb-8433-7a8c6f67fb41)
