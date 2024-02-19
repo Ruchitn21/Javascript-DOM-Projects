@@ -19,3 +19,12 @@ Basic Cursor is a new cursor added over the default cursor which smoothly follow
 ![basic_cursor1](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/d610a7a0-4223-4eb5-b9e0-45e97f13c94f)
 ![basic_cursor2](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/eff980d6-d755-4973-b0a0-a9db6f2ed700)
 
+# Project 3 (Multiple Effects on Single Page)
+In Advance to previous project of a basic cursor, in this project 4 different cursors on a single webpage have been implemented with smooth following of default cursor and each part of webpage will have different cursor.
+
+![multiple_1](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/46fb6e40-a971-41a2-b2ae-bb95948ccb88)
+![m![multiple_3](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/6b6863b5-a17f-4670-856a-01f72b6293fa)
+![m![multiple_2](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/e27d6187-6edc-49be-8e48-400627f174c4)
+
+![multiple_4](https://github.com/Ruchitn21/Javascript-DOM-Projects/assets/49104850/5a4b68dd-a334-4eee-b8e2-ec4d17f7da7a)
+
